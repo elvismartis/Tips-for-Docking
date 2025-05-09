@@ -1,5 +1,5 @@
 # Ten quick tips to perform meaningful and reproducible molecular docking calculations
-**Accepted in Plos Computational Biology** 
+**[link to the paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013030)** 
 
 **Elvis A. F. Martis and Stéphane Téletchéa**
 
